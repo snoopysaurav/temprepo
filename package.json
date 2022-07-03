@@ -1,7 +1,7 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is a temporary repository\r playing with NodeJS",
   "main": "alt-mod.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -9,9 +9,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "live-server": "^1.2.2",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snoopysaurav/temprepo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/snoopysaurav/temprepo/issues"
+  },
+  "homepage": "https://github.com/snoopysaurav/temprepo#readme"
 }
